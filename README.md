@@ -39,3 +39,10 @@
 ### Friday;
 - Finish up final touches
 - Present and Kill it
+
+
+
+## Utalize Content
+
+- Java and SQL to create the command line
+- API to obtain youtube searching
